@@ -20,6 +20,7 @@ app.post('/submit',function(req,res){
 
 app.listen(port, () =>{
     console.log("Listening to port 3000");
+    console.log("Yes ,I exists")
 })
 
 
